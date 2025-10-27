@@ -149,7 +149,7 @@ console.log(keyToArray('1,2'))
 
 
 
-let path = knightTravails([3,3],[6,6])
+let path = knightTravails([0,0],[7,7])
 
 console.log("final path: ",path)
 
